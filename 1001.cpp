@@ -16,6 +16,6 @@ int main()
     X = A + B;
 
     cout << "X = " << X << endl;
-	
-	return 0;
+    
+    return 0;
 }
