@@ -1,0 +1,1 @@
+1061 - algoritmo para calcular diferença de dias, horas, minutos e segundos entre dois dias.
